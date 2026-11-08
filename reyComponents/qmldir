@@ -1,0 +1,5 @@
+module reyComponents
+ReyPasswordBox 2.0 ReyPasswordBox.qml
+ReyPictureBox 2.0 ReyPictureBox.qml
+ReyTextBox 2.0 ReyTextBox.qml
+ReyTextConstants 2.0 ReyTextConstants.qml
